@@ -1,3 +1,3 @@
 # Paddy-Disease-Classification
 
-![Alt text](/relative/path/to/summary.PNG?raw=true "Optional Title")
+[![summary.png](https://i.postimg.cc/VkcmRPXr/summary.png)](https://postimg.cc/4mwDfMLs)
